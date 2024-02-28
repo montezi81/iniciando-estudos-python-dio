@@ -1,2 +1,3 @@
-# iniciando-estudos-python-dio
-Início básico com Python (Dio)
+# Início do curso Ciência de Dados
+## Python básico
+- Início básico com Python
